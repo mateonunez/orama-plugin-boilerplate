@@ -42,7 +42,7 @@
     "@lyrasearch/lyra": "^0.4.1",
     "@types/node": "^20.1.1",
     "@types/tap": "^15.0.7",
-    "@typescript-eslint/eslint-plugin": "^5.48.1",
+    "@typescript-eslint/eslint-plugin": "^6.0.0",
     "@typescript-eslint/parser": "^5.48.1",
     "c8": "^7.12.0",
     "esbuild": "^0.17.0",
