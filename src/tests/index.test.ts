@@ -1,4 +1,4 @@
-import plugin from ".."
+import plugin from "../index.js"
 import {test} from "tap"
 
 test("resolve", async ({test}) => {
